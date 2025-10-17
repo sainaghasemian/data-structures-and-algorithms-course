@@ -6,11 +6,8 @@ Implementations of fundamental data structures and algorithms from my Data Struc
 - Arrays, Linked Lists, Stacks, Queues
 - Binary Search Trees, Heaps
 - Hash Tables with collision handling
-- Graphs (adjacency lists and matrices)
 
 **Algorithms:**
 - Sorting: Quick Sort, Merge Sort, Heap Sort
 - Searching: Binary Search, BFS, DFS, Dijkstra's algorithm
 
-### Tech Stack
-**Language:** [C++]
